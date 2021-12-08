@@ -23,5 +23,17 @@ class CalculadoraCientifica:
 
 
 """
-
+[2] - Utilize nomes em minusculos, separados por underline para funções ou variáveis  
 """
+
+
+def soma():
+    pass
+
+
+def soma_dois():
+    pass
+
+
+numero = 4
+numero_impar = 5
